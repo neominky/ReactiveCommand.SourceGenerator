@@ -1,6 +1,6 @@
 ﻿using Microsoft.CodeAnalysis;
 
-namespace ReactiveCommand.SourceGenerator;
+namespace ReactiveCommandSourceGenerator;
 
 public class CommandExtensionInfo
 {

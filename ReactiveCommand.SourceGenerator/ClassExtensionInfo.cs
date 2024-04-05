@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 
-namespace ReactiveCommand.SourceGenerator;
+namespace ReactiveCommandSourceGenerator;
 
 internal class ClassExtensionInfo
 {
